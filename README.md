@@ -1,6 +1,3 @@
-# Name - Chirag Singla
-# Roll.No - 101903500
-
 # RoadDatasetTimeSeries
 A timeseries prediction of a road dataset.
 
